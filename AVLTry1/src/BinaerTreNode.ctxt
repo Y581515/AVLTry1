@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=BinaerTreNode
+comment1.params=el
+comment1.target=BinaerTreNode(java.lang.Object)
+comment1.text=\r\n\ Oppretter\ et\ nytt\ tre\ med\ spesifisert\ data.\r\n
+comment10.params=hoyde
+comment10.target=void\ setHoyde(int)
+comment2.params=element\ venstre\ hoyre
+comment2.target=BinaerTreNode(java.lang.Object,\ BinaerTreNode,\ BinaerTreNode)
+comment3.params=
+comment3.target=BinaerTreNode\ getVenstre()
+comment3.text=\r\n\ Hent-\ og\ settmetoder\ /\r\n
+comment4.params=
+comment4.target=BinaerTreNode\ getHoyre()
+comment5.params=ny
+comment5.target=void\ setVenstre(BinaerTreNode)
+comment6.params=ny
+comment6.target=void\ setHoyre(BinaerTreNode)
+comment7.params=
+comment7.target=java.lang.Object\ getElement()
+comment8.params=el
+comment8.target=void\ setElement(java.lang.Object)
+comment9.params=
+comment9.target=int\ getHoyde()
+numComments=11

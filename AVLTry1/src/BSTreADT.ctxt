@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BSTreADT
+comment1.params=
+comment1.target=int\ antall()
+comment1.text=\r\n\ Returnerer\ sann\ hvis\ dette\ binore\ trett\ er\ tomt\ og\ usann\ ellers.\r\n
+comment2.params=
+comment2.target=boolean\ erTom()
+comment2.text=\r\n\ Returnerer\ sann\ hvis\ dette\ binore\ treet\ er\ tom\ og\ usann\ ellers.\r\n
+comment3.params=element
+comment3.target=void\ leggTil(java.lang.Comparable)
+comment3.text=\r\n\ Legger\ det\ spesifiserte\ elementet\ po\ passende\ plass\ i\ dette\ binore\ soketreet.\r\n\ Like\ elementer\ blir\ lagt\ til\ hoyre.\r\n
+comment4.params=element
+comment4.target=java.lang.Comparable\ finn(java.lang.Comparable)
+comment4.text=\r\n\ Returnerer\ en\ referanse\ til\ det\ spesifiserte\ elementet\ hvis\ det\ fins\ i\ dette\r\n\ binore\ treet\ ellers\ returneres\ null./\r\n
+comment5.params=
+comment5.target=java.lang.Comparable\ finnMin()
+comment5.text=\r\n\ Returnerer\ en\ referanse\ til\ minste\ elementet,\ null\ viss\ tre\ er\ tomt.\r\n
+comment6.params=
+comment6.target=java.lang.Comparable\ finnMaks()
+comment6.text=\r\n\ Returnerer\ en\ referanse\ til\ storste\ elementet,\ null\ viss\ tre\ er\ tomt.\r\n
+comment7.params=
+comment7.target=java.lang.Comparable\ fjernMin()
+comment7.text=\r\n\ Fjerner\ minste\ elementet\ fra\ dette\ treet\ hvis\ det\ fins,\ ellers\ returneres\ null\r\n
+comment8.params=
+comment8.target=java.lang.Comparable\ fjernMaks()
+comment8.text=\r\n\ Fjerner\ storste\ elementet\ fra\ dette\ treet\ hvis\ det\ fins,\ ellers\ returneres\ null\r\n
+numComments=9

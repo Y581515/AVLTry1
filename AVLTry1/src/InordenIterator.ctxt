@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=InordenIterator
+comment0.text=\r\n\ Klassen\ implementerer\ en\ InordenIterator\r\n\r\n
+comment1.params=p
+comment1.target=BinaerTreNode\ gaaTilVenstre(BinaerTreNode)
+comment2.params=rot
+comment2.target=InordenIterator(BinaerTreNode)
+comment2.text=\r\n\ Oppretter\ en\ InordenIterator<T>,\ gaar\ helt\ til\ venstre\r\n\ i\ bs-treet.\r\n
+comment3.params=
+comment3.target=boolean\ hasNext()
+comment3.text=\r\n\ Returnerer\ sann\ hvis\ iterasjonen\ har\ flere\ elementer.\r\n\r\n
+comment4.params=
+comment4.target=java.lang.Object\ next()
+comment4.text=\r\n\ Returnerer\ det\ neste\ elementet\ i\ iterasjonen\ hvis\ det\ fins.\r\n\r\n
+comment5.params=
+comment5.target=void\ remove()
+numComments=6
